@@ -4,7 +4,10 @@
 
 <script>
 import WorldTour from './components/worldTour.vue'
-
+/**
+ * the links is not recieving any data
+ *  why?
+ */
 export default {
   name: 'App',
   components: {
